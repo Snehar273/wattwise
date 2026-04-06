@@ -29,7 +29,7 @@ WattWise is a machine learning web application that:
 
 ## Live Demo
 
-> **[Launch WattWise](https://wattwisee.streamlit.app)** ← replace with your deployed URL after deployment
+> **[Launch WattWise](https://wattwisee.streamlit.app)** 
 
 ---
 
