@@ -108,7 +108,7 @@ smart_electricity_usage_predictor/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/wattwise.git
+git clone https://github.com/Snehar273/wattwise.git
 cd wattwise
 ```
 
@@ -214,8 +214,8 @@ scikit-learn
 ## Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/Snehar273)  
-LinkedIn: [your-linkedin](https://www.linkedin.com/in/sneha-r-b90866290)
+GitHub: [@Sneha](https://github.com/Snehar273)  
+LinkedIn: [Sneha](https://www.linkedin.com/in/sneha-r-b90866290)
 
 ---
 
