@@ -1,0 +1,5 @@
+household_power_consumption.txt
+user_data.db
+__pycache__/
+*.pyc
+.env
